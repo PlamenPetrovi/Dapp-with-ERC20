@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/flex-layout": "^5.0.0-beta.13",
+    "bignumber.js": "^6.0.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "loadtest": "*",
+    "mongoose": "^4.7.5",
+    "web3_extended": "^1.0.0"
+  },
+  "devDependencies": {
+    "truffle": "^4.0.6"
+  }
+}
